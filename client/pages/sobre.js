@@ -5,21 +5,15 @@ import Footer from '../components/Footer'
 export default function Sobre() {
   const team = [
     {
-      name: 'Chef Carlos Silva',
+      name: 'Chef Fernanda Costa',
       role: 'Chef Executivo',
-      description: 'Com mais de 15 anos de experiência em gastronomia internacional, Chef Carlos é o responsável por criar nossos menus exclusivos e manter os mais altos padrões de qualidade.',
+      description: 'Com mais de 15 anos de experiência em gastronomia internacional, Chef Fernanda é a responsável por criar nossos menus exclusivos e manter os mais altos padrões de qualidade.',
       image: '/images/chef-carlos.jpg'
     },
     {
-      name: 'Ana Costa',
-      role: 'Diretora de Eventos',
-      description: 'Especialista em planejamento de eventos, Ana garante que cada detalhe seja perfeito, desde o primeiro contato até o último prato servido.',
-      image: '/images/ana-costa.jpg'
-    },
-    {
-      name: 'Roberto Santos',
-      role: 'Gerente de Operações',
-      description: 'Responsável pela logística e coordenação de equipes, Roberto assegura que tudo funcione perfeitamente em cada evento.',
+      name: 'Italo Antonio',
+      role: 'Marketing',
+      description: 'Responsável pelo marketing, Italo assegura que tudo funcione perfeitamente em cada evento.',
       image: '/images/roberto-santos.jpg'
     }
   ]
@@ -214,7 +208,7 @@ export default function Sobre() {
               <a href="/contato" className="bg-white text-primary-600 hover:bg-secondary-100 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
                 Agendar Reunião
               </a>
-              <a href="tel:+5511999999999" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
+              <a href="tel:+5534997131854" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
                 Ligar Agora
               </a>
             </div>

@@ -44,7 +44,7 @@ export default function Eventos() {
               <a href="/contato" className="bg-white text-primary-600 hover:bg-secondary-100 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
                 Solicitar Orçamento
               </a>
-              <a href="tel:+5511999999999" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
+              <a href="tel:+5534997131854" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-medium py-3 px-8 rounded-lg transition-colors duration-200">
                 Ligar Agora
               </a>
             </div>

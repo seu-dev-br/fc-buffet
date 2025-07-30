@@ -53,7 +53,7 @@ export default function Contato() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Telefone</h3>
-                      <p className="text-secondary-600 mb-2">(11) 99999-9999</p>
+                      <p className="text-secondary-600 mb-2">(34) 99713-1854</p>
                       <p className="text-sm text-secondary-500">Segunda a Sexta, 8h às 18h</p>
                     </div>
                   </div>
@@ -81,7 +81,7 @@ export default function Contato() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">WhatsApp</h3>
-                      <p className="text-secondary-600 mb-2">(11) 99999-9999</p>
+                      <p className="text-secondary-600 mb-2">(34) 99713-1854</p>
                       <p className="text-sm text-secondary-500">Atendimento rápido e direto</p>
                     </div>
                   </div>
@@ -96,8 +96,8 @@ export default function Contato() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Endereço</h3>
-                      <p className="text-secondary-600 mb-2">São Paulo, SP</p>
-                      <p className="text-sm text-secondary-500">Atendemos toda a região metropolitana</p>
+                      <p className="text-secondary-600 mb-2">Patrocínio, MG</p>
+                      <p className="text-sm text-secondary-500">Atendemos toda a região</p>
                     </div>
                   </div>
                 </div>
@@ -107,9 +107,9 @@ export default function Contato() {
                   <h3 className="font-semibold text-lg mb-4">Siga-nos nas Redes Sociais</h3>
                   <div className="flex space-x-4">
                     <a
-                      href="https://instagram.com/fcbuffet"
+                      href="https://instagram.com/fc_buffet"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer"(34) 99713-1854
                       className="w-10 h-10 bg-gradient-to-br from-pink-500 to-purple-600 rounded-lg flex items-center justify-center text-white hover:scale-110 transition-transform duration-200"
                     >
                       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -127,7 +127,7 @@ export default function Contato() {
                       </svg>
                     </a>
                     <a
-                      href="https://wa.me/5511999999999"
+                      href="https://wa.me/5534997131854"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 bg-green-500 rounded-lg flex items-center justify-center text-white hover:scale-110 transition-transform duration-200"
@@ -156,24 +156,24 @@ export default function Contato() {
                 Nossa <span className="gradient-text">Área de Atendimento</span>
               </h2>
               <p className="text-xl text-secondary-600 max-w-2xl mx-auto">
-                Atendemos toda a região metropolitana de São Paulo e arredores
+                Atendemos toda a região de Patrocínio e arredores
               </p>
             </div>
 
             <div className="bg-secondary-100 rounded-2xl p-8 text-center">
               <div className="text-6xl mb-4">🗺️</div>
-              <h3 className="text-2xl font-bold mb-4">São Paulo e Região</h3>
+              <h3 className="text-2xl font-bold mb-4">Patrocínio e Região</h3>
               <p className="text-secondary-600 mb-6">
-                Oferecemos nossos serviços em toda a Grande São Paulo, incluindo:
+                Oferecemos nossos serviços em toda a região, incluindo:
               </p>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
-                <div className="bg-white rounded-lg p-3">São Paulo Capital</div>
-                <div className="bg-white rounded-lg p-3">Campinas</div>
-                <div className="bg-white rounded-lg p-3">Santos</div>
-                <div className="bg-white rounded-lg p-3">São José dos Campos</div>
-                <div className="bg-white rounded-lg p-3">Ribeirão Preto</div>
-                <div className="bg-white rounded-lg p-3">Sorocaba</div>
-                <div className="bg-white rounded-lg p-3">Jundiaí</div>
+                <div className="bg-white rounded-lg p-3">Patrocínio</div>
+                <div className="bg-white rounded-lg p-3">Coromandel</div>
+                <div className="bg-white rounded-lg p-3">Patos de Minas</div>
+                <div className="bg-white rounded-lg p-3">Araxá</div>
+                <div className="bg-white rounded-lg p-3">Uberlândia</div>
+                <div className="bg-white rounded-lg p-3">Monte Carmelo</div>
+                <div className="bg-white rounded-lg p-3">Serra do Salitre</div>
                 <div className="bg-white rounded-lg p-3">E muito mais!</div>
               </div>
             </div>
